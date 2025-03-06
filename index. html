@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>akshaya</title>
+</head>
+<body bgcolor="orange">
+<h1 align="center">Cadbury Chocolate</h1>
+<img src="" alt="">
+<h1 align="center"> <img src="https://m.media-amazon.com/images/I/71AvhD6GOhL._AC_UF1000,1000_QL80_.jpg" alt="width=300" 
+height="400"></h1>
+<h2 align="center">Cadbury Chocolate</h2>
+<h3> Ingredients:</h3>
+<p> Milk, Sugar, Cocoa Butter, Cocoa Mass, Vegetable Fats (palm, shea),<br> Emulsifiers (E442, E476), flavourings. MAY CONTAIN NUTS, WHEAT.
+</p>
+<h2><em>cadburty chocolate varieties</em></h2>
+  <ul
+    <li>Cadbury Dairy Milk</li>
+<li>Eclairs</li>
+<li>perk</li>
+</ul>
+<Center><h2> <u>Nutritional facts</u></h2></Center>
+<table border="2px" align="center">
+<tr>
+<th></th>
+<th>per 100 g</th>
+<th>%RDA per serve</th>
+</tr>
+<tr>
+<td>energy</td>
+<td>534 kcal</td>
+<td>240 kcal</td>
+</tr>
+<tr>
+<td>corbohydrate</td> 
+<td>57 g 26 g</td> 
+<td></td> 
+</tr>
+<tr>
+<td>total sugar</td>
+  <td>28.0g</td>
+<td>56.0g</td>
+</tr>
+<tr>
+<td>saturates</td>
+<td>18 g</td>
+<td>8.3 g</td>
+</tr>
+<tr>
+<td>total fat</td>
+<td>30 g</td>
+<td>14 g</td>
+</tr>
+</table>
+<br>
+<h2 align="center">Link For Purchase</h2>
+ <center><a herf="https://www.cadbury.co.uk/" color="blue"> This Link</a></center> 
+<h2 align="center"><b> Join Our Page</b></h2>
+<form align="center">
+ Name :<input type="text" Name><br>
+<br>
+  Email :<input type="text" Email><br>
+<br>
+Phone no:<input type="number" Phone no><br>
+<br>
+ Gender : Male<input type="radio" Male >
+Female<input type="radio" Female >
+<br>
+<br>
+ <input type="submit"Submit>
+</form>
+<br>
+<center><h1>Review</h1><center>
+ <center><img 
+src="https://images.ctfassets.net/pmzhtobns06n/1IoVVbIhc1LHBUJ7kCtxMg/444661803801af87d0bd6d730438549f/Thank_You_Teacher_740x600.png?fm
+=webp&q=80&fm=webp&q=80" align="center"width="55%" height="400">
+</center>
+<br><br>
+<center><iframe width="853" height="480" src="https://www.youtube.com/embed/z_OtC06ndUE" title="Cadbury Dairy Milk wishes #GoodLuckGirls to 
+all those hitting it out of the park." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-
+share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
+<br>
+<h3>in audio formate</h3>
+  <audio src="https://pagallworld.co.in/wp-content/uploads/2023/03/Kiss-Me-Close-Your-Eyes.mp3"
+controls autoplay muted</audio>
+</body>
+</html>
